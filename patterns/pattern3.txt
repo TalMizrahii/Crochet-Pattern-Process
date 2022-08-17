@@ -1,0 +1,85 @@
+legs make 2
+In color number 2 
+R1- 6 sc in mr 
+R2- inc X6 (12) 
+R3- 12 sc
+In color number 1 
+R4-8- 12 sc 
+Sl st
+Ch 2 and join the legs 
+
+body 
+R1- 12 sc, 2 sc, 12, sc, 2 sc (28)
+R2- 5 sc, inc, 14 sc, inc, 7 sc (30)
+Close the holes between the legs
+R3- (4sc, inc) X6 (36)
+R4-6- 36 sc
+R7- (4 sc, dec)X6 (30)
+R8- 30 sc
+R9- (3sc, dec)X6 (24) 
+R10-11- 24 sc
+Stuff the bottom of the body
+R12- (2sc, dec)X6 (18) 
+R13- 18 sc
+R14- (sc, dec)X6 (12) 
+FO and leave long tail
+
+Arms - make 2
+In color n2 
+R1- 6 sc in mr
+R2- (SC, INC)X6 (9)
+R3- 9sc
+Cange to color n1 
+R4- 9 sc
+R5- (sc, dec)X3 (6) 
+R6-8- 6sc
+Fold the arm flat and 6sc to close it.
+FO and leave long tail
+
+Ears - make 2 
+R1- 4 sc in MR
+R2- 4 inc (8)
+R3- 8 sc
+R4- (sc, inc)X4 (12) 
+R5- 12 sc
+R6- 6 dec (6)
+Fold the arm flat and 6sc to close it.
+FO and leave long tail
+
+Head 
+Color n2 
+R1- 6 sc in MR
+R2- 6 inc (12) 
+R3- (sc, inc)X6 (18) 
+R4- (2sc, inc)X6 (24) 
+R5- 24 sc
+On color n1
+R6- 24 sc
+R7- (3sc, inc)X6 (30)
+R8- 30 sc
+R9- (4sc, inc)X6 (36)
+R10- 36 sc
+Insert the eyes between R6 and R7, 8 st apart.
+R11- (4sc, dec)X6 (30)
+R12- 30 sc
+R13- (3sc, dec)X6 (24)
+R14- (2sc, dec)X6 (18)
+Stuff
+R15- (sc, dec)X6 (12)
+R16- 6 dec (6)
+FO
+
+Horn
+R1- 4 sc in mr
+R2- (sc, inc)X2 (6)
+R3- 6 sc
+R4- (2 sc, inc)X2 (8)
+R5-6 8 sc
+R7- (3sc, inc)X2 (10)
+R8-9- 10 sc
+FO and leave long tail
+Stuff the horn
+
+assambel
+The horn should be 2 R from the back of the eyes
+The ears are at the same R as the horn, 2 st in every side.
