@@ -3,7 +3,7 @@ Hello! this is the Crochet pattern processor.
 
 This program uses a crochet pattern (mainly amigarumi) for any kind of instrument or doll, and displays data about the project, such as the time of preparation, approximate amount of material, and price evaluation.
 
-To use this program, the pattern must be set in a txt file (if taken from the internet, easily can be copied using “ctr A -> ctr C -> ctr V”). the path to the file must not contain spaces.
+To use this program, the pattern must be set in a txt file (if taken from the internet, easily can be copied using “ctr A -> ctr C -> ctr V”). The path to the file must not contain spaces.
 After the path is set, a menu is displayed in which you’ll choose the size of the hook you will use for the object, the number of separated parts and the approximate speed of your work.
 After the data is set, the program will calculate the results and display them.
 
@@ -16,8 +16,8 @@ After the data is set, the program will calculate the results and display them.
 
 
 
-I added 3 patterns to test this program if you wish.
-if you wish to learn more about amigarumi you can read about it here https://en.wikipedia.org/wiki/Amigurumi.
+I added 3 patterns to test this program if you wish try the system.
+If you are intrested to learn more about amigarumi you can read about it here https://en.wikipedia.org/wiki/Amigurumi.
 
 
 I hope this program will help you with your work and save you precious time!
